@@ -1,0 +1,7 @@
+ideas.txt
+app.log
+.vagrant
+.vscode
+__pycache__
+frontend/.angular
+provisioning/roles
